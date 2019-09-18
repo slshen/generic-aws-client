@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2017-03-14",
+ "endpointPrefix": "servicediscovery",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceAbbreviation": "ServiceDiscovery",
+ "serviceFullName": "AWS Cloud Map",
+ "serviceId": "ServiceDiscovery",
+ "signatureVersion": "v4",
+ "targetPrefix": "Route53AutoNaming_v20170314",
+ "uid": "servicediscovery-2017-03-14"
+}

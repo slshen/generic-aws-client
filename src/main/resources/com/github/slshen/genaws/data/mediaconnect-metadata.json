@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2018-11-14",
+ "endpointPrefix": "mediaconnect",
+ "signingName": "mediaconnect",
+ "serviceFullName": "AWS MediaConnect",
+ "serviceId": "MediaConnect",
+ "protocol": "rest-json",
+ "jsonVersion": "1.1",
+ "uid": "mediaconnect-2018-11-14",
+ "signatureVersion": "v4"
+}

@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2017-11-09",
+ "endpointPrefix": "a4b",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceFullName": "Alexa For Business",
+ "serviceId": "Alexa For Business",
+ "signatureVersion": "v4",
+ "targetPrefix": "AlexaForBusiness",
+ "uid": "alexaforbusiness-2017-11-09"
+}

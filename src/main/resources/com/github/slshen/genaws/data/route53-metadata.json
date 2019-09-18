@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2013-04-01",
+ "endpointPrefix": "route53",
+ "globalEndpoint": "route53.amazonaws.com",
+ "protocol": "rest-xml",
+ "serviceAbbreviation": "Route 53",
+ "serviceFullName": "Amazon Route 53",
+ "serviceId": "Route 53",
+ "signatureVersion": "v4",
+ "uid": "route53-2013-04-01"
+}

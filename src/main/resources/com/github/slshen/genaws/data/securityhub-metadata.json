@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2018-10-26",
+ "endpointPrefix": "securityhub",
+ "jsonVersion": "1.1",
+ "protocol": "rest-json",
+ "serviceFullName": "AWS SecurityHub",
+ "serviceId": "SecurityHub",
+ "signatureVersion": "v4",
+ "signingName": "securityhub",
+ "uid": "securityhub-2018-10-26"
+}

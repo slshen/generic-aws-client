@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2017-11-27",
+ "endpointPrefix": "mq",
+ "signingName": "mq",
+ "serviceFullName": "AmazonMQ",
+ "serviceId": "mq",
+ "protocol": "rest-json",
+ "jsonVersion": "1.1",
+ "uid": "mq-2017-11-27",
+ "signatureVersion": "v4"
+}

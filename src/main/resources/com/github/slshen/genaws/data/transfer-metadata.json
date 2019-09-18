@@ -1,0 +1,13 @@
+{
+ "apiVersion": "2018-11-05",
+ "endpointPrefix": "transfer",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceAbbreviation": "AWS Transfer",
+ "serviceFullName": "AWS Transfer for SFTP",
+ "serviceId": "Transfer",
+ "signatureVersion": "v4",
+ "signingName": "transfer",
+ "targetPrefix": "TransferService",
+ "uid": "transfer-2018-11-05"
+}

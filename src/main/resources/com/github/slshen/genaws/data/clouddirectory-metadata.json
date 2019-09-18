@@ -1,0 +1,10 @@
+{
+ "apiVersion": "2017-01-11",
+ "endpointPrefix": "clouddirectory",
+ "protocol": "rest-json",
+ "serviceFullName": "Amazon CloudDirectory",
+ "serviceId": "CloudDirectory",
+ "signatureVersion": "v4",
+ "signingName": "clouddirectory",
+ "uid": "clouddirectory-2017-01-11"
+}

@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2018-06-29",
+ "endpointPrefix": "robomaker",
+ "jsonVersion": "1.1",
+ "protocol": "rest-json",
+ "serviceAbbreviation": "RoboMaker",
+ "serviceFullName": "AWS RoboMaker",
+ "serviceId": "RoboMaker",
+ "signatureVersion": "v4",
+ "signingName": "robomaker",
+ "uid": "robomaker-2018-06-29"
+}

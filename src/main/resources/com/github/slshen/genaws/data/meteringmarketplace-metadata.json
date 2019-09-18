@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2016-01-14",
+ "endpointPrefix": "metering.marketplace",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceFullName": "AWSMarketplace Metering",
+ "serviceId": "Marketplace Metering",
+ "signatureVersion": "v4",
+ "signingName": "aws-marketplace",
+ "targetPrefix": "AWSMPMeteringService",
+ "uid": "meteringmarketplace-2016-01-14"
+}

@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2017-08-29",
+ "endpointPrefix": "mediaconvert",
+ "signingName": "mediaconvert",
+ "serviceFullName": "AWS Elemental MediaConvert",
+ "serviceId": "MediaConvert",
+ "protocol": "rest-json",
+ "jsonVersion": "1.1",
+ "uid": "mediaconvert-2017-08-29",
+ "signatureVersion": "v4",
+ "serviceAbbreviation": "MediaConvert"
+}

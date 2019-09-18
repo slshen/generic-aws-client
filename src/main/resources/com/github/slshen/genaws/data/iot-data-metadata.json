@@ -1,0 +1,10 @@
+{
+ "uid": "iot-data-2015-05-28",
+ "apiVersion": "2015-05-28",
+ "endpointPrefix": "data.iot",
+ "protocol": "rest-json",
+ "serviceFullName": "AWS IoT Data Plane",
+ "serviceId": "IoT Data Plane",
+ "signatureVersion": "v4",
+ "signingName": "iotdata"
+}

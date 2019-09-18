@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2018-09-05",
+ "endpointPrefix": "sms-voice.pinpoint",
+ "signingName": "sms-voice",
+ "serviceAbbreviation": "Pinpoint SMS Voice",
+ "serviceFullName": "Amazon Pinpoint SMS and Voice Service",
+ "serviceId": "Pinpoint SMS Voice",
+ "protocol": "rest-json",
+ "jsonVersion": "1.1",
+ "uid": "pinpoint-sms-voice-2018-09-05",
+ "signatureVersion": "v4"
+}
