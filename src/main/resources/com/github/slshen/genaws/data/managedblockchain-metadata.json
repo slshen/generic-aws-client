@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2018-09-24",
+ "endpointPrefix": "managedblockchain",
+ "jsonVersion": "1.1",
+ "protocol": "rest-json",
+ "serviceAbbreviation": "ManagedBlockchain",
+ "serviceFullName": "Amazon Managed Blockchain",
+ "serviceId": "ManagedBlockchain",
+ "signatureVersion": "v4",
+ "signingName": "managedblockchain",
+ "uid": "managedblockchain-2018-09-24"
+}

@@ -1,0 +1,9 @@
+{
+ "apiVersion": "2015-01-01",
+ "endpointPrefix": "es",
+ "protocol": "rest-json",
+ "serviceFullName": "Amazon Elasticsearch Service",
+ "serviceId": "Elasticsearch Service",
+ "signatureVersion": "v4",
+ "uid": "es-2015-01-01"
+}

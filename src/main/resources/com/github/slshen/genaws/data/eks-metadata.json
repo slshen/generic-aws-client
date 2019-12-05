@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2017-11-01",
+ "endpointPrefix": "eks",
+ "jsonVersion": "1.1",
+ "protocol": "rest-json",
+ "serviceAbbreviation": "Amazon EKS",
+ "serviceFullName": "Amazon Elastic Kubernetes Service",
+ "serviceId": "EKS",
+ "signatureVersion": "v4",
+ "signingName": "eks",
+ "uid": "eks-2017-11-01"
+}

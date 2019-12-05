@@ -1,0 +1,18 @@
+# Copyright 2019 Sam Shen
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+language: java
+env:
+  global:
+    secure: a8U1kp9oM22hZB7oFwL9c2M9oPram1PwUNwDHUpbg+B/HLBRGlGW1By7qRDiot9QGpb2dTblvo2WpG6YoJne5E46l/vaWxb8S0Ov/N78bBZTda5Y9n+o4wXhAgku4rat6o9XftF5cSOBepUMVXAAMQjCP52vZu8Gn0STW2J2VlKhhvQ7Lw0ZcUmdS9ZHIWrJENVbJy9/AX+kr445/C3MtxClWIK/SCDKYYAE0ClAF/DibSbU/92+sWDu/zTRqj9qbV0oA9fULJjR66RaYN/knbNb0YVQ3MI/TGnyKL0LwbHi5MQ+PVsEGXKktcYfKHSykcl1GlASWZnfb/+Mdi0A7i0dtsBIzFgz/Fzf67EzMH6ryFBdaeQLhQcn3XXtKXUp3dWlY0uuXzAYf5gQ7z6GSbGC6Trf8p2bYXFuPhTBSoeKPScsKCXVSI+jKQd8ne95arMcCW9Yv+Z9Yz16L79J1R4l1O7eULqnJyy2qhiXQIWNcznmUZlsS7tyV6NHZy/VDERH/oA26X5O8tAgK+XC8D5cCadff+MJdlqS+JYc4sLKk55SnRaiGPuuknfAg9IOU88g5ZWs8ywleRJi8K9vIuWTyNF3g4ohBMUi9qVsA+Q1ciGTSgK3hhx4aMpur4T0MULx2lHAY7RzmTCBkKwrKt8wpXb13yj86w1xhZ6mi44=

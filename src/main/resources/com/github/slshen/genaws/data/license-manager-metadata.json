@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2018-08-01",
+ "endpointPrefix": "license-manager",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceFullName": "AWS License Manager",
+ "serviceId": "License Manager",
+ "signatureVersion": "v4",
+ "targetPrefix": "AWSLicenseManager",
+ "uid": "license-manager-2018-08-01"
+}

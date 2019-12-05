@@ -1,0 +1,13 @@
+{
+ "apiVersion": "2018-02-27",
+ "endpointPrefix": "pi",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceAbbreviation": "AWS PI",
+ "serviceFullName": "AWS Performance Insights",
+ "serviceId": "PI",
+ "signatureVersion": "v4",
+ "signingName": "pi",
+ "targetPrefix": "PerformanceInsightsv20180227",
+ "uid": "pi-2018-02-27"
+}

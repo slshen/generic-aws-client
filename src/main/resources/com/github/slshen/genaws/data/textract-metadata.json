@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2018-06-27",
+ "endpointPrefix": "textract",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceFullName": "Amazon Textract",
+ "serviceId": "Textract",
+ "signatureVersion": "v4",
+ "targetPrefix": "Textract",
+ "uid": "textract-2018-06-27"
+}

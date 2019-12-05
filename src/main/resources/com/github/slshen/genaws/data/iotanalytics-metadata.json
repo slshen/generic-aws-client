@@ -1,0 +1,10 @@
+{
+ "apiVersion": "2017-11-27",
+ "endpointPrefix": "iotanalytics",
+ "protocol": "rest-json",
+ "serviceFullName": "AWS IoT Analytics",
+ "serviceId": "IoTAnalytics",
+ "signatureVersion": "v4",
+ "signingName": "iotanalytics",
+ "uid": "iotanalytics-2017-11-27"
+}

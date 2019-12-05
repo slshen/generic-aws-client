@@ -1,0 +1,10 @@
+{
+ "apiVersion": "2018-04-01",
+ "endpointPrefix": "quicksight",
+ "jsonVersion": "1.0",
+ "protocol": "rest-json",
+ "serviceFullName": "Amazon QuickSight",
+ "serviceId": "QuickSight",
+ "signatureVersion": "v4",
+ "uid": "quicksight-2018-04-01"
+}

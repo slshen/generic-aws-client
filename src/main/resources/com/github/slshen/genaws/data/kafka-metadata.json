@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2018-11-14",
+ "endpointPrefix": "kafka",
+ "signingName": "kafka",
+ "serviceFullName": "Managed Streaming for Kafka",
+ "serviceAbbreviation": "Kafka",
+ "serviceId": "Kafka",
+ "protocol": "rest-json",
+ "jsonVersion": "1.1",
+ "uid": "kafka-2018-11-14",
+ "signatureVersion": "v4"
+}

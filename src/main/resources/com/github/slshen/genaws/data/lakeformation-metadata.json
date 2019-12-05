@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2017-03-31",
+ "endpointPrefix": "lakeformation",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceFullName": "AWS Lake Formation",
+ "serviceId": "LakeFormation",
+ "signatureVersion": "v4",
+ "signingName": "lakeformation",
+ "targetPrefix": "AWSLakeFormation",
+ "uid": "lakeformation-2017-03-31"
+}

@@ -1,0 +1,10 @@
+{
+ "apiVersion": "2017-09-30",
+ "endpointPrefix": "kinesisvideo",
+ "protocol": "rest-json",
+ "serviceAbbreviation": "Kinesis Video",
+ "serviceFullName": "Amazon Kinesis Video Streams",
+ "serviceId": "Kinesis Video",
+ "signatureVersion": "v4",
+ "uid": "kinesisvideo-2017-09-30"
+}

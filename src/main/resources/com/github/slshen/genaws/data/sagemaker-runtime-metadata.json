@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2017-05-13",
+ "endpointPrefix": "runtime.sagemaker",
+ "jsonVersion": "1.1",
+ "protocol": "rest-json",
+ "serviceFullName": "Amazon SageMaker Runtime",
+ "serviceId": "SageMaker Runtime",
+ "signatureVersion": "v4",
+ "signingName": "sagemaker",
+ "uid": "runtime.sagemaker-2017-05-13"
+}

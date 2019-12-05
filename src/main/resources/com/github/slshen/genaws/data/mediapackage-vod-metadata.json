@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2018-11-07",
+ "endpointPrefix": "mediapackage-vod",
+ "jsonVersion": "1.1",
+ "protocol": "rest-json",
+ "serviceAbbreviation": "MediaPackage Vod",
+ "serviceFullName": "AWS Elemental MediaPackage VOD",
+ "serviceId": "MediaPackage Vod",
+ "signatureVersion": "v4",
+ "signingName": "mediapackage-vod",
+ "uid": "mediapackage-vod-2018-11-07"
+}

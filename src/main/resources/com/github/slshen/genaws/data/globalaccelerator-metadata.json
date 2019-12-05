@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2018-08-08",
+ "endpointPrefix": "globalaccelerator",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceFullName": "AWS Global Accelerator",
+ "serviceId": "Global Accelerator",
+ "signatureVersion": "v4",
+ "signingName": "globalaccelerator",
+ "targetPrefix": "GlobalAccelerator_V20180706",
+ "uid": "globalaccelerator-2018-08-08"
+}

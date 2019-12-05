@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2018-06-26",
+ "endpointPrefix": "forecast",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceFullName": "Amazon Forecast Service",
+ "serviceId": "forecast",
+ "signatureVersion": "v4",
+ "signingName": "forecast",
+ "targetPrefix": "AmazonForecast",
+ "uid": "forecast-2018-06-26"
+}

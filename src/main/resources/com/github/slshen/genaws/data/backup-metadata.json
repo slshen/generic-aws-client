@@ -1,0 +1,10 @@
+{
+ "apiVersion": "2018-11-15",
+ "endpointPrefix": "backup",
+ "jsonVersion": "1.1",
+ "protocol": "rest-json",
+ "serviceFullName": "AWS Backup",
+ "serviceId": "Backup",
+ "signatureVersion": "v4",
+ "uid": "backup-2018-11-15"
+}

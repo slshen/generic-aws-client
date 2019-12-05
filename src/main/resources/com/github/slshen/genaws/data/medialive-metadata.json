@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2017-10-14",
+ "endpointPrefix": "medialive",
+ "signingName": "medialive",
+ "serviceFullName": "AWS Elemental MediaLive",
+ "serviceId": "MediaLive",
+ "protocol": "rest-json",
+ "jsonVersion": "1.1",
+ "uid": "medialive-2017-10-14",
+ "signatureVersion": "v4",
+ "serviceAbbreviation": "MediaLive"
+}

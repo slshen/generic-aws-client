@@ -1,0 +1,12 @@
+{
+ "apiVersion": "2017-01-11",
+ "endpointPrefix": "entitlement.marketplace",
+ "jsonVersion": "1.1",
+ "protocol": "json",
+ "serviceFullName": "AWS Marketplace Entitlement Service",
+ "serviceId": "Marketplace Entitlement Service",
+ "signatureVersion": "v4",
+ "signingName": "aws-marketplace",
+ "targetPrefix": "AWSMPEntitlementService",
+ "uid": "entitlement.marketplace-2017-01-11"
+}

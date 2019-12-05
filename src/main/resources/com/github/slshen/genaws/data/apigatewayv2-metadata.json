@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2018-11-29",
+ "endpointPrefix": "apigateway",
+ "signingName": "apigateway",
+ "serviceFullName": "AmazonApiGatewayV2",
+ "serviceId": "ApiGatewayV2",
+ "protocol": "rest-json",
+ "jsonVersion": "1.1",
+ "uid": "apigatewayv2-2018-11-29",
+ "signatureVersion": "v4"
+}

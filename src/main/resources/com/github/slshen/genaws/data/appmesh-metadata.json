@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2019-01-25",
+ "endpointPrefix": "appmesh",
+ "jsonVersion": "1.1",
+ "protocol": "rest-json",
+ "serviceFullName": "AWS App Mesh",
+ "serviceId": "App Mesh",
+ "signatureVersion": "v4",
+ "signingName": "appmesh",
+ "uid": "appmesh-2019-01-25"
+}

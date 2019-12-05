@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2018-05-14",
+ "endpointPrefix": "devices.iot1click",
+ "signingName": "iot1click",
+ "serviceFullName": "AWS IoT 1-Click Devices Service",
+ "serviceId": "IoT 1Click Devices Service",
+ "protocol": "rest-json",
+ "jsonVersion": "1.1",
+ "uid": "devices-2018-05-14",
+ "signatureVersion": "v4"
+}

@@ -1,0 +1,11 @@
+{
+ "apiVersion": "2018-08-01",
+ "endpointPrefix": "rds-data",
+ "jsonVersion": "1.1",
+ "protocol": "rest-json",
+ "serviceFullName": "AWS RDS DataService",
+ "serviceId": "RDS Data",
+ "signatureVersion": "v4",
+ "signingName": "rds-data",
+ "uid": "rds-data-2018-08-01"
+}
